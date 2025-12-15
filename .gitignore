@@ -1,0 +1,12 @@
+data/raw/
+data/whitelist/
+data/whitelist_preprocessed/
+data/prototypes/*.npz
+models/*.pt
+results/*.jpg
+__pycache__/
+*.pth
+*.pt
+*.npz
+.env
+kaggle.json
